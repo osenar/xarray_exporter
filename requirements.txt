@@ -1,0 +1,6 @@
+h5netcdf
+numpy
+netCDF4
+rasterio
+rioxarray
+xarray
